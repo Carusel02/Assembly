@@ -1,0 +1,5 @@
+checker:
+    image:
+        name: jokeswar/iocla-3
+    script:
+        - echo ''

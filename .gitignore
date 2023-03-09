@@ -1,0 +1,8 @@
+checker/*/checker/*.out
+checker/*/checker/tests/out/*.out
+checker/*/checker/*.o
+checker/*/checker/checker
+checker/*/checker/.*
+refs/*
+.vscode/*
+checker/.*
