@@ -1,5 +1,6 @@
 # Assembly
 - create gpg key
+- verify
 
 ### Task1
 - end task1
